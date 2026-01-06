@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaguftaNaaz31
-- 👀 I’m interested in Web Development, Java
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on (still need to learn a lot)
+- 👀 I’m SAPUI5 Fiori Developer
+- 🌱 I’m currently learning SAP CAPM
+- 💞️ I like to keep upskilling myself. My Goal is to become Full Stack Developer SAP CAPM and Business Process Automation developer SAP BUILD
 - 📫 How to reach me at shagsnaaz49@gmail.com and shaguftanaaz123459@gmail.com
 
 <!---
